@@ -15,7 +15,7 @@
 <hr>
 </h4>
 <h3 align="center">  <br>
-Olá, eu sou o Claudiney! 🇧🇷
+Olá, eu sou o Claudiney Rodrigues!
 <br></h3>
 
 ```
