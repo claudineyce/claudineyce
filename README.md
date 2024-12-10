@@ -3,8 +3,6 @@
 </span> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudineyce&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=claudineyce&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/claudineyce/)
-  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
