@@ -32,9 +32,9 @@
   <div style="display: inline_block"><br>
 
 ###
-
+<img src="https://raw.githubusercontent.com/claudineyce/claudineyce/output/snake.svg" alt="Snake animation" />
+###
    <h2 align="left">Social</h2>
-
 ###
 
 <div align="left">
