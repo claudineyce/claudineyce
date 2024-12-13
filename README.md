@@ -31,11 +31,7 @@
   
   <div style="display: inline_block"><br>
 
-###
-<img src="https://raw.githubusercontent.com/claudineyce/claudineyce/output/snake.svg" alt="Snake animation" />
-###
    <h2 align="left">Social</h2>
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/claudiney-rodrigues/" target="_blank">
